@@ -1,4 +1,4 @@
-<script lang ="ts">
+<script lang="ts">
     import "$lib/styles/study.css";
     import { base } from "$app/paths";
 </script>
