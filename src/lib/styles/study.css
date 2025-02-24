@@ -1,0 +1,98 @@
+.study-projects {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 20px;
+}
+
+.study-project-card {
+    position: relative;
+    width: 1110px;
+    background: #ecf1f8;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    overflow: hidden;
+}
+
+.study-project-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.study-project-card .gradient {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 60.53%;
+    bottom: 0;
+    background: rgba(216, 216, 216, 0.0001);
+}
+
+.study-project-card .overlay {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: rgba(216, 216, 216, 0.0001);
+}
+
+.study-project-card h3 {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+    line-height: 34px;
+    color: #000000;
+    text-align: center;
+}
+
+.study-project-card .study-project-description {
+    padding: 20px;
+    font-size: 16px;
+    line-height: 28px;
+    color: #959393;
+    text-align: center;
+    background: #ffffff;
+    border-radius: 0 0 5px 5px;
+}
+.w {
+    width: 520px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 123px;
+}
+
+.hero-content2 {
+    position: absolute;
+    width: 854px;
+    left: 165px;
+    top: 259px;
+}
+
+.hero-content2 h1 {
+    font-size: 80px;
+    line-height: 81px;
+    color: #101010;
+    margin-bottom: 24px;
+    font-weight: 700;
+    letter-spacing: -0.9px;
+}
+
+.hero-content2 p {
+    font-size: 24px;
+    line-height: 34px;
+    color: #3f3b3b;
+    margin-bottom: 32px;
+    font-weight: 400;
+}
+
+.hero-image2 {
+    position: absolute;
+    width: 481px;
+    height: 386px;
+    right: 165px;
+    top: 196px;
+}
