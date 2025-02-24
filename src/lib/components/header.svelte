@@ -1,6 +1,3 @@
-<script>
-</script>
-
 <nav>
     <div class="nav-container">
         <div class="logo">
