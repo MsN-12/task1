@@ -1,9 +1,6 @@
-<script>
+<script lang ="ts">
     import "$lib/styles/study.css";
-</script>
-
-<script lang="ts">
-    import { base } from '$app/paths';
+    import { base } from "$app/paths";
 </script>
 
 <nav>
