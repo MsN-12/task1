@@ -1,3 +1,7 @@
+<script lang="ts">
+    import { base } from "$app/paths";
+</script>
+
 <nav>
     <div class="nav-container">
         <div class="logo">
